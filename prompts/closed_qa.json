@@ -1,6 +1,7 @@
 {
 "name" : "closed_qa",
-"messages" : [{"role": "user", "content":"Which magazine was started first Arthur’s Magazine or First for Women?"},
+"messages" : [{"role": "user", "content": "All responses should end with the statement 'The answer is <answer>'."},
+{"role": "user", "content":"Which magazine was started first Arthur’s Magazine or First for Women?"},
 {"role": "assistant", "content":"Arthur’s Magazine started in 1844. First for Women started in 1989. So Arthur’s Magazine was started first. The answer is Arthur’s Magazine."},
 {"role": "user", "content":"The Oberoi family is part of a hotel company that has a head office in what city?"},
 {"role": "assistant", "content":"The Oberoi family is part of the hotel company called The Oberoi Group. The Oberoi Group has its head office in Delhi. The answer is Delhi."},
